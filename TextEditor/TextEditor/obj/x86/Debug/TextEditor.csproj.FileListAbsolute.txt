@@ -1,0 +1,29 @@
+C:\Documents and Settings\Admin\Local Settings\Application Data\Temporary Projects\TextEditor\bin\Debug\TextEditor.exe
+C:\Documents and Settings\Admin\Local Settings\Application Data\Temporary Projects\TextEditor\bin\Debug\TextEditor.pdb
+C:\Documents and Settings\Admin\Local Settings\Application Data\Temporary Projects\TextEditor\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Admin\Local Settings\Application Data\Temporary Projects\TextEditor\obj\x86\Debug\TextEditor.Form1.resources
+C:\Documents and Settings\Admin\Local Settings\Application Data\Temporary Projects\TextEditor\obj\x86\Debug\TextEditor.Properties.Resources.resources
+C:\Documents and Settings\Admin\Local Settings\Application Data\Temporary Projects\TextEditor\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Admin\Local Settings\Application Data\Temporary Projects\TextEditor\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Admin\Local Settings\Application Data\Temporary Projects\TextEditor\obj\x86\Debug\TextEditor.exe
+C:\Documents and Settings\Admin\Local Settings\Application Data\Temporary Projects\TextEditor\obj\x86\Debug\TextEditor.pdb
+d:\my documents\visual studio 2010\Projects\TextEditor\TextEditor\obj\x86\Debug\ResolveAssemblyReference.cache
+d:\my documents\visual studio 2010\Projects\TextEditor\TextEditor\obj\x86\Debug\TextEditor.Form1.resources
+d:\my documents\visual studio 2010\Projects\TextEditor\TextEditor\obj\x86\Debug\TextEditor.Properties.Resources.resources
+d:\my documents\visual studio 2010\Projects\TextEditor\TextEditor\obj\x86\Debug\GenerateResource.read.1.tlog
+d:\my documents\visual studio 2010\Projects\TextEditor\TextEditor\obj\x86\Debug\GenerateResource.write.1.tlog
+d:\my documents\visual studio 2010\Projects\TextEditor\TextEditor\obj\x86\Debug\TextEditor.exe
+d:\my documents\visual studio 2010\Projects\TextEditor\TextEditor\bin\Debug\TextEditor.exe
+d:\my documents\visual studio 2010\Projects\TextEditor\TextEditor\bin\Debug\TextEditor.pdb
+d:\my documents\visual studio 2010\Projects\TextEditor\TextEditor\obj\x86\Debug\TextEditor.pdb
+C:\Users\user\Desktop\TextEditor\TextEditor\TextEditor\obj\x86\Debug\TextEditor.exe
+C:\Users\user\Desktop\TextEditor\TextEditor\TextEditor\obj\x86\Debug\TextEditor.pdb
+C:\Users\user\Desktop\для работы\TextEditor\TextEditor\TextEditor\bin\Debug\TextEditor.exe
+C:\Users\user\Desktop\для работы\TextEditor\TextEditor\TextEditor\bin\Debug\TextEditor.pdb
+C:\Users\user\Desktop\для работы\TextEditor\TextEditor\TextEditor\obj\x86\Debug\TextEditor.csprojAssemblyReference.cache
+C:\Users\user\Desktop\для работы\TextEditor\TextEditor\TextEditor\obj\x86\Debug\TextEditor.Form1.resources
+C:\Users\user\Desktop\для работы\TextEditor\TextEditor\TextEditor\obj\x86\Debug\TextEditor.Properties.Resources.resources
+C:\Users\user\Desktop\для работы\TextEditor\TextEditor\TextEditor\obj\x86\Debug\TextEditor.csproj.GenerateResource.cache
+C:\Users\user\Desktop\для работы\TextEditor\TextEditor\TextEditor\obj\x86\Debug\TextEditor.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\для работы\TextEditor\TextEditor\TextEditor\obj\x86\Debug\TextEditor.exe
+C:\Users\user\Desktop\для работы\TextEditor\TextEditor\TextEditor\obj\x86\Debug\TextEditor.pdb
